@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">OMR Teacher</string>
+    <string name="title_activity_main">OMR Teacher</string>
+    <string name="package_name">com.omrapp.omrteacher</string>
+    <string name="custom_url_scheme">com.omrapp.omrteacher</string>
+</resources>
